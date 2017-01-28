@@ -5,7 +5,7 @@
    </head>
    <body>
    <p>
-   		My experirence with creating wep apps and microservies will enable me fit into the roel of a senior software developer with preplass.
+   		My experirence with creating wep apps and microservies will enable me fit into the role of a senior software developer with preplass.
    </p>
    	
    </body>
